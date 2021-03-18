@@ -1,0 +1,33 @@
+
+# "One True Brace Style"
+--style=1tbs
+
+# Identation
+--indent=spaces=4
+
+# Ident structs
+--indent-classes
+
+# Pad empty lines around header blocks
+--break-blocks
+
+# Pad around header ( e.g: if, for, while )
+--pad-header
+
+# Add space around operators
+--pad-oper
+
+# Add space around commas
+--pad-comma
+
+# Add space around parents
+--pad-paren
+
+# Align pointer to name
+--align-pointer=name
+
+# Align reference to name
+--align-reference=name 
+
+# No backup of original files
+--suffix=none
